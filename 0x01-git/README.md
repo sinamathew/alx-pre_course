@@ -1,1 +1,1 @@
-This is my first time using git
+my second commit using git terminal
